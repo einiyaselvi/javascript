@@ -11,6 +11,7 @@ if(condition){
 
 //example - 01
 
+
 let number = 0;
 if(number < 0){
     console.log(number+"is negative number");
@@ -19,3 +20,5 @@ if(number < 0){
 }else{
     console.log("zero");
 }
+
+
