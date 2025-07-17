@@ -50,5 +50,5 @@ switch(letter){
     default:
         console.log(letter+ " is not a consonant");
         break;
-    
 }
+
