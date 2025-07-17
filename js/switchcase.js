@@ -48,7 +48,7 @@ switch(letter){
         console.log(letter+ " is a vowel");
         break;
     default:
-        console.log(letter+ " is a consonant");
+        console.log(letter+ " is not a consonant");
         break;
     
 }
