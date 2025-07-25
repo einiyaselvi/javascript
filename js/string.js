@@ -50,4 +50,5 @@ console.log("charCodeAt : "+c);
 c=first_name.substring(1,3);  //substring(start, end)
 console.log("substring : "+c);
 
+
   
