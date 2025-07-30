@@ -7,11 +7,8 @@ array.reduce(function(acculumator, currentvalue, currentIndex, array){
 //return statement
 }, initialValue);
 
-*/
-
-
-
-
+//example
 let numbers = [1, 2, 3, 4, 5];
 let sum = numbers.reduce((accumulator, currentValue) => accumulator+currentValue);
 console.log(sum); // Output: 15
+*/
